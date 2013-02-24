@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_wo_r_b___test_bed.html" title="Encapsulates a rigid body test&#45;bed application." alt="" coords="5,5,120,35"/>
+<area shape="rect" id="node3" href="$class_wo_r_b___mex_function.html" title="Represents WoRB test&#45;bed that can be initialized from mexFunction arguments." alt="" coords="169,5,311,35"/>
+</map>

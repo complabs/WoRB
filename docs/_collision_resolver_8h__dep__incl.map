@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_wo_r_b_8h.html" title="The World of Rigid Bodies (WoRB) Simulation Framework." alt="" coords="631,83,700,112"/>
+<area shape="rect" id="node5" href="$_collision_detection_8cpp.html" title="Implementation of the collision detection system." alt="" coords="5,160,155,189"/>
+<area shape="rect" id="node7" href="$_impulse_method_8cpp.html" title="Implementation of the impulse transfer method algorithm." alt="" coords="179,160,312,189"/>
+<area shape="rect" id="node9" href="$_main_8cpp.html" title="The main entry point for both the stand&#45;alone application." alt="" coords="612,315,687,344"/>
+<area shape="rect" id="node11" href="$_utilities_8h.html" title="Declarations for various GLUT utilites for a rigid body application." alt="" coords="525,160,600,189"/>
+<area shape="rect" id="node14" href="$_wo_r_b___test_bed_8h.html" title="Definitions for the WoRB_TestBed, which encapsulates a GLUT based test&#45;bed application based on the W..." alt="" coords="603,237,728,267"/>
+<area shape="rect" id="node17" href="$mex_function_8cpp.html" title="The main entry point for the WoRB MATLAB function." alt="" coords="339,315,461,344"/>
+<area shape="rect" id="node19" href="$_wo_r_b___test_bed_8cpp.html" title="Implementation of the WoRB_TestBed, a GLUT based WoRB application." alt="" coords="711,315,849,344"/>
+<area shape="rect" id="node27" href="$_position_projections_8cpp.html" title="Implementation of the position projections algorithm." alt="" coords="904,160,1061,189"/>
+<area shape="rect" id="node29" href="$_wo_r_b_8cpp.html" title="Implementation of miscellaneous methods for some of WoRB classes." alt="" coords="1085,160,1171,189"/>
+<area shape="rect" id="node22" href="$_utilities_8cpp.html" title="Implementation of the various GLUT utilites used by the rigid body test&#45;bed application." alt="" coords="488,237,579,267"/>
+</map>

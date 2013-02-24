@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_wo_r_b_1_1_rigid_body.html" title="Encapsulates a rigid body." alt="" coords="96,1870,293,3151"/>
+<area shape="rect" id="node4" href="$class_wo_r_b_1_1_quaternion.html" title="Encapsulates Hamilton real quaternions." alt="" coords="5,331,187,1664"/>
+<area shape="rect" id="node6" href="$class_wo_r_b_1_1_q_tensor.html" title="Encapsulates a quaternionic tensor (q&#45;tensor) as a 4x4 row&#45;major matrix." alt="" coords="211,391,435,1603"/>
+<area shape="rect" id="node8" href="$struct_wo_r_b_1_1_q_tensor_1_1_components.html" title="Represents tensor components in a column&#45;major order." alt="" coords="224,5,421,264"/>
+</map>

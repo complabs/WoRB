@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_wo_r_b_1_1_collision.html" title="Encalpsulates a collision event between two bodies; contains contact details." alt="" coords="178,3235,434,3875"/>
+<area shape="rect" id="node4" href="$class_wo_r_b_1_1_quaternion.html" title="Encapsulates Hamilton real quaternions." alt="" coords="21,331,202,1664"/>
+<area shape="rect" id="node10" href="$class_wo_r_b_1_1_rigid_body.html" title="Encapsulates a rigid body." alt="" coords="207,1870,405,3151"/>
+<area shape="rect" id="node6" href="$class_wo_r_b_1_1_q_tensor.html" title="Encapsulates a quaternionic tensor (q&#45;tensor) as a 4x4 row&#45;major matrix." alt="" coords="294,391,518,1603"/>
+<area shape="rect" id="node8" href="$struct_wo_r_b_1_1_q_tensor_1_1_components.html" title="Represents tensor components in a column&#45;major order." alt="" coords="307,5,505,264"/>
+</map>
